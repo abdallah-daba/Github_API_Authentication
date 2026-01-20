@@ -23,7 +23,4 @@ public repositories data for a given user and export it as JSON.
 1. Create `.env` file
 2. Add your GitHub token:
 GITHUB_TOKEN=your_token_here
-
 3. Run: python main.py
-1. Create `.env` file
-2. Add your GitHub token:
